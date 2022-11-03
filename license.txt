@@ -24,8 +24,8 @@ THE SOFTWARE.
 
 Media content licenses
 
-Cassette Textures created by CreamMcGee (License: CC BY-SA)
+Cassette Textures created by CreamMcGee (License: CC BY-SA-4.0)
 
-Audio by EMLYN, heliogram and Silencerized (License: CC BY-SA)
+Audio by EMLYN, heliogram and Silencerized (License: CC BY-SA-4.0)
 
 	
